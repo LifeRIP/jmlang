@@ -1,0 +1,12 @@
+x=3;
+y=7;
+z=x+y;
+x>5;
+x<5;
+n=true;
+k=false;
+danif x==3 entonces 5*5;
+danif x==1 entonces 5*5 manuelse 2*8;
+camilor 0:5 hacejoan a=7-3;
+mientrasjoan true hacejoan 10/2;
+
